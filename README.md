@@ -1,0 +1,2 @@
+# Actix-blog
+Small blog
